@@ -27,11 +27,11 @@
 5. 裡面檔案
 
 ##git name
-
+```
 \- config.php
 \- webhook.php
 \- log\
-
+```
 ## redmine
 
 1. 到redmine的專案下，輸入該bare.git的路徑。
